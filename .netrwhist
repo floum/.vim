@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/floum/floum.github.io/css'
+let g:netrw_dirhist_2='/home/floum/floum.github.io/_includes'
+let g:netrw_dirhist_3='/home/floum/floum.github.io/_layouts'
